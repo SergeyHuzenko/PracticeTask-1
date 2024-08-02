@@ -1,3 +1,3 @@
-"# My Project" 
-# test-project
-"# PracticeTask-1" 
+# PracticeTask1
+
+This repository was created to do practice task 1
